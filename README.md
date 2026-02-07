@@ -34,7 +34,7 @@
   
 ![](https://github-readme-stats-2345678.vercel.app/api?username=amananand011bps-cpu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats-2345678.vercel.app/api/top-langs/?username=username=amananand011bps-cpu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=faizanfatmi&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=amananand011bps-cp&theme=tokyonight&hide_border=false)
 
 </div>
 
